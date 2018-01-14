@@ -1,0 +1,7 @@
+language: csharp
+solution: Challenge2.sln
+notifications:
+    slack: githubschoolseminar:ArMcyr3wrL6KVaQzve4aA3l2
+install:
+  - sudo apt-get install -y gtk-sharp2
+  - nuget restore Challenge2.sln

@@ -1,0 +1,7 @@
+C:\Users\Zsibók Márk\source\repos\Challenge2\Challenge2\bin\Debug\Challenge2.exe.config
+C:\Users\Zsibók Márk\source\repos\Challenge2\Challenge2\bin\Debug\Challenge2.exe
+C:\Users\Zsibók Márk\source\repos\Challenge2\Challenge2\bin\Debug\Challenge2.pdb
+C:\Users\Zsibók Márk\source\repos\Challenge2\Challenge2\obj\Debug\Challenge2.csprojResolveAssemblyReference.cache
+C:\Users\Zsibók Márk\source\repos\Challenge2\Challenge2\obj\Debug\Challenge2.csproj.CoreCompileInputs.cache
+C:\Users\Zsibók Márk\source\repos\Challenge2\Challenge2\obj\Debug\Challenge2.exe
+C:\Users\Zsibók Márk\source\repos\Challenge2\Challenge2\obj\Debug\Challenge2.pdb
