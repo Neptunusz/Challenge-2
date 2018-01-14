@@ -1,0 +1,21 @@
+Csapat név:
+Csapat vezetõ:
+Csapat tagok:
+-
+-
+-
+-
+A csoportban legtöbb munkát végzõ tag neve:
+
+
+
+/*--------------------------------------------------Szabályok--------------------------------------------------*/
+1.A csapat a fõ repo a csapatra vonatkozó branch-ét forkolja le! 
+2.Csak fork-ba dolgoztok!
+3.Ahhoz, hogy értékelhetõ legyen a munkátok csak a "Program" mappában található fájlokat szabad módosítani!
+4.A kész kódot vissza kell töltenetek a forrás branch-be!
+5.Internetes segítség használata a C#
+6.Amennyiben észrevesszük, hogy egy csapat internetrõl másolt kódot küld be, azonnal kizárjuk a játékból!
+8.Ha a feltöltött "végleges" kódot a Travis CI hibával fórdítja le, nem fogjuk tovább nézni a kód hellyeségét!
+7.Csak azokat a munkákat fogadjuk el, amelyek betartják a felsorolt szabályokat!
+/*--------------------------------------------------Szabályok--------------------------------------------------*/
