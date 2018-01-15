@@ -1,21 +1,21 @@
-Csapat név:
-Csapat vezetõ:
+Csapat nÃ©v: CommitAndForkMyLife
+Csapat vezetÅ‘: Ã‰n
 Csapat tagok:
--
--
--
--
-A csoportban legtöbb munkát végzõ tag neve:
+- Norbert
+- Bence
+- Attila
+- Dani
+A csoportban legtÃ¶bb munkÃ¡t vÃ©gzÅ‘ tag neve:
 
 
 
-/*--------------------------------------------------Szabályok--------------------------------------------------*/
-1.A csapat a fõ repo a csapatra vonatkozó branch-ét forkolja le! 
+/*--------------------------------------------------SzabÃ¡lyok--------------------------------------------------*/
+1.A csapat a fÅ‘ repo a csapatra vonatkozÃ³ branch-Ã©t forkolja le! 
 2.Csak fork-ba dolgoztok!
-3.Ahhoz, hogy értékelhetõ legyen a munkátok csak a "Program" mappában található fájlokat szabad módosítani!
-4.A kész kódot vissza kell töltenetek a forrás branch-be!
-5.Internetes segítség használata a C#
-6.Amennyiben észrevesszük, hogy egy csapat internetrõl másolt kódot küld be, azonnal kizárjuk a játékból!
-8.Ha a feltöltött "végleges" kódot a Travis CI hibával fórdítja le, nem fogjuk tovább nézni a kód hellyeségét!
-7.Csak azokat a munkákat fogadjuk el, amelyek betartják a felsorolt szabályokat!
-/*--------------------------------------------------Szabályok--------------------------------------------------*/
+3.Ahhoz, hogy Ã©rtÃ©kelhetÅ‘ legyen a munkÃ¡tok csak a "Program" mappÃ¡ban talÃ¡lhatÃ³ fÃ¡jlokat szabad mÃ³dosÃ­tani!
+4.A kÃ©sz kÃ³dot vissza kell tÃ¶ltenetek a forrÃ¡s branch-be!
+5.Internetes segÃ­tsÃ©g hasznÃ¡lata a C#
+6.Amennyiben Ã©szrevesszÃ¼k, hogy egy csapat internetrÅ‘l mÃ¡solt kÃ³dot kÃ¼ld be, azonnal kizÃ¡rjuk a jÃ¡tÃ©kbÃ³l!
+8.Ha a feltÃ¶ltÃ¶tt "vÃ©gleges" kÃ³dot a Travis CI hibÃ¡val fÃ³rdÃ­tja le, nem fogjuk tovÃ¡bb nÃ©zni a kÃ³d hellyesÃ©gÃ©t!
+7.Csak azokat a munkÃ¡kat fogadjuk el, amelyek betartjÃ¡k a felsorolt szabÃ¡lyokat!
+/*--------------------------------------------------SzabÃ¡lyok--------------------------------------------------*/
